@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/hello_world/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/hello_world/build" />
+      <excludeFolder url="file://$MODULE_DIR$/navigation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/navigation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/routes/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/routes/build" />
+      <excludeFolder url="file://$MODULE_DIR$/stateful/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/stateful/build" />
+      <excludeFolder url="file://$MODULE_DIR$/stateless/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/stateless/build" />
+      <excludeFolder url="file://$MODULE_DIR$/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/text_input/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/text_input/build" />
+      <excludeFolder url="file://$MODULE_DIR$/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
